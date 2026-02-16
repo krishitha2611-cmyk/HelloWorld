@@ -40,3 +40,4 @@ out/
 # Compiled files
 out/
 *.class
+git add.gitignore
